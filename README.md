@@ -1,2 +1,1 @@
-# pajtonche
-UCHIME PAJTONCHE
+Na martin proektot
